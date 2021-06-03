@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last speech and confession of Charles Obrian and Daniel Cary who were both executed at Tyburn on Friday being the seventh day of September 1688, Charles Obrian for felony and burglary, and Daniel Cary for willful murther, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09362</idno><idno type="EEBO-CITATION">61297057</idno>
+  <idno type="VID">180601</idno>
+  <idno type="EEBO-PROQUEST">2240867513</idno>
+  
+            <idno type="STC">Wing L504E</idno>
+            <idno type="STC">ESTC R213470</idno>
+            <idno type="OCLC">61297057</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09362)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180601)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2837:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last speech and confession of Charles Obrian and Daniel Cary who were both executed at Tyburn on Friday being the seventh day of September 1688, Charles Obrian for felony and burglary, and Daniel Cary for willful murther, &amp;c.</title>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Obrian, Charles, d. 1688.</term>
+               <term type="personal_name">Cary, Daniel, d. 1688.</term>
+               <term type="topical_term">Trials (Burglary) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Trials (Murder) --  England --  Early works to 1800.</term>
+               <term type="topical_term">Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:180601:1"/>
+            <head>The Last SPEECH AND CONFESSION OF <hi>Charles Obrian</hi> AND <hi>Daniel Cary.</hi> Who were both Executed at TYBURN, ON <hi>Friday</hi> being the Seventh day of <hi>September</hi> 1688.</head>
+            <head type="sub">
+               <hi>Charles Obrian</hi> for Felony and Burglary, and <hi>Daniel Cary</hi> for Willful Murther, <hi>&amp;c.</hi>
+            </head>
+            <p>THis day <hi>Charles Obryan</hi> a Scotchman of about twenty three years of Age, and <hi>Daniel Cary</hi> a Soldier belong<g ref="char:EOLhyphen"/>ing to the <hi>Tower</hi> of <hi>London;</hi> were both drawn in a Cart from <hi>Newgate</hi> to <hi>Tyburn</hi> in order to be executed there. <hi>Obryan</hi> dyed for breaking the House of one <hi>Edward Weekes</hi> near <hi>Mussel-hill</hi> in the County of <hi>Middlesex,</hi> on the Third of <hi>August</hi> last, there being several others in his company, some
+<pb n="2" facs="tcp:180601:2"/>of which are not as yet taken. <hi>Daniel Cary</hi> was brought to dye, for killing one <hi>Edward Welding,</hi> on the Seventeenth day of <hi>July</hi> last at <hi>Tower-hill. Both whose Tryals are to be seen at large in the Book of Tryals,</hi> &amp;c.</p>
+            <p>When the Cart was under the Tree, Mr. <hi>Ordinary</hi> and two other Ministers came into the Cart: Mr. <hi>Ordinary</hi> began to pray for and with Mr. <hi>Obrian,</hi> likewise did the other two Ministers take great pains in admonishing of him to prepare for his latter end, which they did by Prayer and other serious and seasonable Instructions, <hi>&amp;c</hi> He seemed very Penitent at first, and much lamented his untimely end, desiring all Young men to beware of the Devils Temptations, and of the Company of evil Men, who had brought him to this evil end; desiring all People present to pray for his Soul. Saying, <hi>Good People, I have been a very wicked Sinner all my days, and am brought here to dye for the same. I have been guilty of all manner of sins ex<g ref="char:EOLhyphen"/>cept Murder, which I did commit once in my own defence, being set upon be one who drew a Sword upon me, or else I ever hated it. But I must confess further, that I have taken great delight on Horse-back, and to Rob upon the High-ways, which is the chief Crime for which I dye; but now I hate it as much as any thing in the World. I disire you all to pray for me, and let all young People take warning by me, here is abun<g ref="char:EOLhyphen"/>dance of young Persons present here, I wish they would take Example by my Evil End.</hi> After this he desired the Ordinary to sing a <hi>Psalm,</hi> and to pray again for him, the other two Ministers having taken their leaves of him. He was much concerned at his death, and seemed to be full of Agony and Fear; yet said that his fear did not pro<g ref="char:EOLhyphen"/>ceed from Cowardise, but from the trouble that was upon him, for what wrong he had done to others. These and other such like lamenting Expressions came from him in the Cart, saying at last he was willing to dye, and leave the World, trusting his Soul only upon the Merits of <hi>Jesus Christ,</hi> who died and shed his pretious Blood for him, he said <hi>Amen</hi> to all the Prayers of the Ordinary and the other two Worthy Ministers, who came to administer their Spiritual help to him, desiring them to pray for him to the last. After which he recommended his Soul to the Mercy of Almighty God.</p>
+            <p>As for the other Criminal <hi>Cary,</hi> he died in the Roman Catholick Faith, and would have no help from the Protestant Ministers, all the help he had, was by tow Priests that came into the Cart, <hi>&amp;c.</hi> So can say nothing in particular to him, only leave him to the Mercy and Pitty of God, who pardoneth all true Penitents. Let all that read this Paper take warning hereby, to beware of their own hearts Lusts, and evil and wicked Inclinations to sin, especially
+<pb n="3" facs="tcp:180601:2"/>of being seduced by such evil Company as these poor Creatures have been, particularly <hi>Obrian,</hi> who hath been a Notorious Offen<g ref="char:EOLhyphen"/>der ever since his Childhood, as himself confessed, therefore desired that all would take warning, and learn by his sudden death to amend their Lives. And let every good Christian bemoan the untimely end of such Ignorant Creatures; let it be a daily warning to all Persons that lead evil Lives and Conversations, not according to Truth and Honesty.</p>
+            <p>One thing I think not fit to omit, concerning Mr. <hi>Obrian,</hi> he espying a Person near him, supposed to be the Person of the House where the Dead Body was laid, after he was killed at <hi>Mussle-hill.</hi> Saying to him, <hi>Sir, I do not know your name, but we may thank your Wife for finding us the Arms to Rob on the High-way.</hi> Yet for all this he would not speak one word against any of his Companions, where<g ref="char:EOLhyphen"/>by to peach them, but died at last pretty confidently, and with a kind of an undaunted Spirit, saying, <hi>What good will it do me to bring any other Person to an untimely death in this place,</hi> &amp;c.</p>
+            <p>
+               <hi>Cary</hi> said nothing more, but desired all Persons to take warning by him, denying that he knew any thing of the death of <hi>Welding,</hi> only said that there were several Swords clattering in the Scuffle be<g ref="char:EOLhyphen"/>sides his, when the Person was killed▪ so could not be positive that his Sword killed him, <hi>&amp;c.</hi>
+            </p>
+            <p>Let us all desire Almighty God to keep us in the way of Truth and Honesty, and that we may live in the fear of God all the days of our Lives, and then our Deaths may and will be comfortable to us all in God Almighty's due time.</p>
+            <p>One <hi>John Pressley</hi> was likewise ordered to be executed for the Mur<g ref="char:EOLhyphen"/>ther of one <hi>John Page,</hi> but a Reprieze being sent after him, he was re<g ref="char:EOLhyphen"/>turned back again to <hi>Newgate,</hi> &amp;c.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the <hi>Blue Ball</hi> in <hi>Thames-street</hi> nea <hi>Baynard</hi>'s-<hi>Castle,</hi> 1688.</p>
+            <pb facs="tcp:180601:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
